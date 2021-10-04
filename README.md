@@ -1,4 +1,4 @@
-<div align="center"><a href="#"  ><img width="60%" height="auto" src="https://drive.google.com/file/d/19bYDqk80EqlyCeZhQwQyTjFDNxvJTEiT/view?usp=sharing" height="75px" /></a></div>
+<div align="center"><a href="#"  ><img width="60%" height="auto" src="https://photos.google.com/share/AF1QipPju1H9Or8x_QElhmlVYSp65h6erRmYXQRMnBQ_gt7Un3DRkFPge_OKL4avm-Qw0g/photo/AF1QipMcMfUkoP_h68kIvJp6FadoEbrXoikGYUItLxP9?key=RGtSX05wNHFzZ19HVFFMUUNwcHBXSE4zeGxmSlNR" height="75px" /></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chhatrapal Choudhary</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
