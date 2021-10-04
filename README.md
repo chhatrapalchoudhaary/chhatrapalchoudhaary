@@ -1,4 +1,4 @@
-<div align="center" style="color:black"><a href="#"  ><img width="60%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" height="75px" /></a>
+<div align="center" style="color:black"><a href="#"  ><img width="40%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" height="75px" /></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chhatrapal Choudhary</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -79,4 +79,3 @@
     <img src="https://komarev.com/ghpvc/?username=chhatrapalchoudhaary">
 </a>
 <a href="https://github.com/chhatrapalchoudhaary?tab=followers"><img src="https://img.shields.io/github/followers/chhatrapalchoudhaary?label=Followers&style=social" alt="GitHub Badge"></a>
-</div>
