@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **MERN Full Stack Development**.
+- 🔭 I’m currently working on **Frontend Development**.
 
 - 🌱 I’m currently learning **Everything**
 
