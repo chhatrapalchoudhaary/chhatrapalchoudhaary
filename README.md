@@ -1,7 +1,7 @@
 <div align="center" style="color:black"><a href="#"  ><img width="40%" height="auto" src="https://image.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg" height="75px" /></a></div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chhatrapal Choudhary</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I'm a passionate Frontend Developer from India.</h3>
 
 
 ## 🙋‍♂️ About Me
