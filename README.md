@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://chhatrapalchoudhary.com)**
 
-- 📫 How to reach me **epicchhatrapal@gmail.com**
+- 📫 How to reach me **chhatrapalchoudhary101@gmail.com**
 
 - ⚡ Fun fact **I play Cricket and do Graphic Designing very often**
 
