@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **chhatrapalchoudhary101@gmail.com**
 
-- ⚡ Fun fact **I play Cricket and do Graphic Designing very often**
+- ⚡ Fun fact **I play Cricket and do Graphic design very often**
 
 ## 🚀 Languages and Tools:
 
@@ -46,7 +46,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/chhatrapal-choudhary-143a3881/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/icc2cu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://x.com/web_chhatrapal"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/chhatrapal_choudhary/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCRjhvm1MQYagJQlYD8Afwfw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
